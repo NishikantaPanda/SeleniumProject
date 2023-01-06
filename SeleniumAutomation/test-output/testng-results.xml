@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-22T17:29:17 IST" name="Default suite" finished-at="2022-12-22T17:29:23 IST" duration-ms="6131">
+    <groups>
+    </groups>
+    <test started-at="2022-12-22T17:29:17 IST" name="Default test" finished-at="2022-12-22T17:29:23 IST" duration-ms="6131">
+      <class name="Testing.TestCase4">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:Testing.TestCase4@747edf66]" started-at="2022-12-22T17:29:17 IST" name="openApp" finished-at="2022-12-22T17:29:21 IST" duration-ms="3949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="testCase4()[pri:0, instance:Testing.TestCase4@747edf66]" started-at="2022-12-22T17:29:21 IST" name="testCase4" finished-at="2022-12-22T17:29:23 IST" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Testing.TestCase4@747edf66]" started-at="2022-12-22T17:29:23 IST" name="closeApp" finished-at="2022-12-22T17:29:23 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Testing.TestCase4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
